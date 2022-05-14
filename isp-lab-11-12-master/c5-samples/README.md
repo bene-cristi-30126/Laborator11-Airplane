@@ -14,10 +14,6 @@ Steps for resolving lab:
     * create UML Class diagram; for selected package for which UI has been implemented;
 - Try to work as a team and each member of the team to resolve part of the problem.
 
-**Note 1 - This lab does not count to the final lab grade. It just gives you a chance to experiment how you can work in collaboration on a git repository.**
-
-**Note 2 - Please notice that for this lab there is NO assignment template and you will need to create repository from scratch in github.**    
-
 ## Exercise 2 - Use case diagram
 ![Class Diagram image](docs/ClassDiagram1.jpg)
 
